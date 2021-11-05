@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import wx.adv
 import wx
 import threading
